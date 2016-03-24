@@ -1,7 +1,4 @@
 # kuksy
-
-# What is kuksy ?
-
 kuksy is an open source ACM ICPC compliant Contest Control System written in C++ and Ruby.
 
 kuksy is an implementation of Version 1.0 of the standard published by the Competitive Learning Institute.
